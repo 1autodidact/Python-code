@@ -1,0 +1,2 @@
+贪婪模式 <tr class="alt"><td>(.*?)</td><td><div align="left">会匹配一个最长的字符串则会从<tr class="alt"><td>，一直匹配到最后一个</td><td><div align="left">，只要符合条件，会匹配到最长的
+而（.*?)只要符文条件就会停下，返回一个字符串
